@@ -1,0 +1,11 @@
+server/config.yaml
+server/config.docker.yaml
+server/log
+server/Dockerfile
+server/.idea
+
+web/.idea
+web/node_modules/*
+web/package-lock.json
+web/yarn.lock
+web/bun.lockb
